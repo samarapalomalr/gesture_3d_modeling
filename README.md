@@ -3,7 +3,6 @@
 Sistema interativo de modelagem que permite criar e manipular objetos 3D em tempo real através de visão computacional. Uma interface "touchless" que elimina a necessidade de mouses ou teclados para a construção de estruturas simples.
 
 ## 🚀 Demonstração
-*(Adicione aqui um GIF do sistema em funcionamento para impressionar no portfólio!)*
 
 ---
 
